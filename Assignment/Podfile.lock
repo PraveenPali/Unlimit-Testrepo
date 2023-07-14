@@ -1,0 +1,22 @@
+PODS:
+  - DGCharts (5.0.0):
+    - DGCharts/Core (= 5.0.0)
+  - DGCharts/Core (5.0.0)
+  - Kingfisher (7.8.0)
+
+DEPENDENCIES:
+  - DGCharts
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - DGCharts
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  DGCharts: 6e0cf2644e8f81ad13f04caa8bc18502870a1c54
+  Kingfisher: 0656e1b064bfc1ca1cd04e033f617a86559696e9
+
+PODFILE CHECKSUM: 634da9999475e3e2e9bf9a0a9da1c819ec50e8be
+
+COCOAPODS: 1.12.1
